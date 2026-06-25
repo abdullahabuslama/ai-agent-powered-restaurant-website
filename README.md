@@ -8,6 +8,16 @@ questions, and **automatically saves reservations into Google Sheets**.
 
 ---
 
+## 📸 Screenshots
+
+| Landing page + AI assistant | Assistant answering about the menu |
+|:---:|:---:|
+| ![Landing page with the bilingual AI assistant](Screenshots/1.png) | ![The assistant answering a menu question](Screenshots/2.png) |
+| **Capturing a reservation in chat** | **Reservation saved to Google Sheets** |
+| ![The assistant collecting a name and phone number](Screenshots/3.png) | ![A reservation row saved automatically in Google Sheets](Screenshots/4.png) |
+
+---
+
 ## ✨ What it does
 - A welcoming, food-themed restaurant landing page (menu, hours, location, offers, delivery).
 - A built-in **AI assistant** in the sidebar that answers customer questions naturally,
