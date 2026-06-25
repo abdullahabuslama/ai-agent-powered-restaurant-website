@@ -1,0 +1,21 @@
+# Secrets & credentials — NEVER commit these
+.env
+.env.local
+credentials.json
+*-credentials.json
+service-account*.json
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,15 @@
+# Forces a consistent LIGHT theme so the website always looks the same and the
+# text stays readable — regardless of the visitor's system/browser dark mode.
+[theme]
+base = "light"
+primaryColor = "#C1502E"
+backgroundColor = "#FBF6EE"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#2B2622"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

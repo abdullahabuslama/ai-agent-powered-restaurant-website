@@ -1,0 +1,64 @@
+{
+  "_instructions": "EDIT THIS FILE to customise your restaurant. Change any text between the quotation marks. Keep the structure, the quotes, and the commas exactly as they are. Use https://jsonlint.com to check your file is valid before saving. عدّل هذا الملف لتخصيص مطعمك: غيّر النصوص بين علامات التنصيص فقط، واترك الفواصل وعلامات التنصيص كما هي.",
+
+  "name_en": "Zaytouna",
+  "name_ar": "مطعم الزيتونة",
+  "tagline_en": "Authentic Middle Eastern flavors, made with love.",
+  "tagline_ar": "نكهات شرق أوسطية أصيلة، مصنوعة بكل حب.",
+
+  "about_en": "Zaytouna is a family-owned restaurant serving authentic Levantine and Middle Eastern cuisine. From sizzling charcoal grills to fresh mezze and homemade desserts, every dish is prepared daily with the finest ingredients.",
+  "about_ar": "مطعم الزيتونة مطعم عائلي يقدم المأكولات الشامية والشرق أوسطية الأصيلة. من المشاوي على الفحم إلى المقبلات الطازجة والحلويات المنزلية، كل طبق يُحضّر يومياً من أجود المكونات.",
+
+  "hours_en": "Open daily from 12:00 PM to 12:00 AM (midnight). Friday: 1:00 PM – 1:00 AM.",
+  "hours_ar": "نفتح يومياً من الساعة 12:00 ظهراً حتى 12:00 منتصف الليل. الجمعة: من 1:00 ظهراً حتى 1:00 صباحاً.",
+
+  "address_en": "12 Garden Street, Heliopolis, Cairo, Egypt",
+  "address_ar": "12 شارع الحديقة، مصر الجديدة، القاهرة، مصر",
+  "maps_url": "https://maps.google.com/?q=Zaytouna+Restaurant+Heliopolis+Cairo",
+
+  "phone": "+20 100 123 4567",
+  "whatsapp": "+20 100 123 4567",
+  "email": "hello@zaytouna-restaurant.com",
+
+  "delivery_en": "We deliver within a 7 km radius. Delivery fee: 20 EGP. Minimum order: 100 EGP. Average delivery time: 30–45 minutes. Order via phone/WhatsApp, or through Talabat and Elmenus.",
+  "delivery_ar": "نوصّل ضمن نطاق 7 كم. رسوم التوصيل: 20 جنيه. الحد الأدنى للطلب: 100 جنيه. متوسط وقت التوصيل: 30–45 دقيقة. اطلب عبر الهاتف/واتساب، أو من خلال طلبات و المنيوز.",
+
+  "offers": [
+    { "en": "Sunday – Family Feast: any 2 mixed grills + 4 sides + drinks for 550 EGP.", "ar": "الأحد – وليمة العائلة: أي مشويين مشكّل + 4 مقبلات + مشروبات بـ 550 جنيه." },
+    { "en": "Tuesday – Mezze Night: 30% off all cold & hot appetizers.", "ar": "الثلاثاء – ليلة المقبلات: خصم 30% على كل المقبلات الباردة والساخنة." },
+    { "en": "Thursday – Free dessert (Kunafa or Om Ali) with every order above 300 EGP.", "ar": "الخميس – حلوى مجانية (كنافة أو أم علي) مع كل طلب فوق 300 جنيه." }
+  ],
+
+  "menu": {
+    "Mezze / المقبلات": [
+      { "en": "Hummus", "ar": "حمص", "price": "55 EGP" },
+      { "en": "Moutabbal (smoked eggplant)", "ar": "متبل باذنجان", "price": "60 EGP" },
+      { "en": "Tabbouleh", "ar": "تبولة", "price": "65 EGP" },
+      { "en": "Stuffed Vine Leaves", "ar": "ورق عنب", "price": "70 EGP" },
+      { "en": "Fattoush", "ar": "فتوش", "price": "65 EGP" }
+    ],
+    "Grills / المشاوي": [
+      { "en": "Mixed Grill Platter", "ar": "مشكل مشاوي", "price": "260 EGP" },
+      { "en": "Shish Tawook", "ar": "شيش طاووق", "price": "180 EGP" },
+      { "en": "Lamb Kofta", "ar": "كفتة لحم", "price": "190 EGP" },
+      { "en": "Grilled Kebab", "ar": "كباب مشوي", "price": "210 EGP" }
+    ],
+    "Main Dishes / الأطباق الرئيسية": [
+      { "en": "Chicken Shawarma Plate", "ar": "صحن شاورما دجاج", "price": "150 EGP" },
+      { "en": "Beef Shawarma Plate", "ar": "صحن شاورما لحم", "price": "170 EGP" },
+      { "en": "Maqluba (upside-down rice)", "ar": "مقلوبة", "price": "175 EGP" },
+      { "en": "Mansaf", "ar": "منسف", "price": "220 EGP" }
+    ],
+    "Desserts / الحلويات": [
+      { "en": "Kunafa", "ar": "كنافة", "price": "75 EGP" },
+      { "en": "Om Ali", "ar": "أم علي", "price": "70 EGP" },
+      { "en": "Baklava (4 pcs)", "ar": "بقلاوة (4 قطع)", "price": "65 EGP" }
+    ],
+    "Drinks / المشروبات": [
+      { "en": "Fresh Mint Lemonade", "ar": "ليمون بالنعناع", "price": "45 EGP" },
+      { "en": "Tamarind Juice", "ar": "عصير تمر هندي", "price": "40 EGP" },
+      { "en": "Turkish Coffee", "ar": "قهوة تركي", "price": "35 EGP" },
+      { "en": "Mint Tea", "ar": "شاي بالنعناع", "price": "30 EGP" }
+    ]
+  }
+}
